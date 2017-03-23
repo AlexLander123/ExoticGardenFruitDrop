@@ -1,0 +1,6 @@
+name: ExoticGardenFruitDrop
+main: me.AlexLander123.ExoticGardenFruitDrop.ExoticGardenFruitDrop
+version: 1.0
+author: AlexLander123
+description: >
+             Drops ExoticGarden fruits when leaves decay.
